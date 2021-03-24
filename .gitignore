@@ -3,6 +3,7 @@
 xcuserdata/
 *.xccheckout
 *.moved-aside
+.build/
 
 # AppCode
 .idea
